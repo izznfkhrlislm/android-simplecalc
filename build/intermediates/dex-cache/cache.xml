@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/home/izznfkhrlislm/AndroidStudioProjects/KalkulatorSederhana/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c03bf57f358aa10d253f21989e93bcf6014b3b17">
+        <dex dex="/home/izznfkhrlislm/AndroidStudioProjects/KalkulatorSederhana/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-25.1.1_07188b20e795742f03d18c11a9294f2f031ad45b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izznfkhrlislm/AndroidStudioProjects/KalkulatorSederhana/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="7bde4c34162092e0a77e7f12dc85ed77c484cf5c">
+        <dex dex="/home/izznfkhrlislm/AndroidStudioProjects/KalkulatorSederhana/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-25.1.1_be5457ecca78e86f108e720f6eac83842e6c8f28/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izznfkhrlislm/AndroidStudioProjects/KalkulatorSederhana/app/build/intermediates/exploded-aar/com.android.support/support-fragment/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="e2719c102dca3a7a5b02ce07f769362da6ddb4ab">
+        <dex dex="/home/izznfkhrlislm/AndroidStudioProjects/KalkulatorSederhana/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-25.1.1_1c21382e1246378fedadc488b1f75e103a7d263e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izznfkhrlislm/AndroidStudioProjects/KalkulatorSederhana/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ecb496cc08dd52551fc5ec6db3bc0632e95a89bb">
+        <dex dex="/home/izznfkhrlislm/AndroidStudioProjects/KalkulatorSederhana/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-25.1.1_e78e2f0c0c59ec64bddd5ccdd23d91cbcf5c2d6d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izznfkhrlislm/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.1.1/support-annotations-25.1.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b59b6ee8d6ecc03e672d253800430343493a6ed8">
+        <dex dex="/home/izznfkhrlislm/AndroidStudioProjects/KalkulatorSederhana/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.1.1_0135ac5d87abc09f59f68498cd6219aaf26ead2d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/usr/local/android-studio/gradle/m2repository/com/android/databinding/baseLibrary/2.2.3/baseLibrary-2.2.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="b4b51d1925cdfda98fd861230c1ecb5855500129">
+        <dex dex="/home/izznfkhrlislm/AndroidStudioProjects/KalkulatorSederhana/app/build/intermediates/transforms/dex/debug/folders/1000/10/baseLibrary-2.2.3_c1fdfd3254ff32a7f83c0ad21381d0b267543ec6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izznfkhrlislm/AndroidStudioProjects/KalkulatorSederhana/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0d191c1a09e4892d059e5ce749e4ad4e08129e35">
+        <dex dex="/home/izznfkhrlislm/AndroidStudioProjects/KalkulatorSederhana/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-25.1.1_57562adcf5f566b0113a7f467cc632c05d4ce61e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izznfkhrlislm/AndroidStudioProjects/KalkulatorSederhana/app/build/intermediates/exploded-aar/com.android.databinding/adapters/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="c56d29136c2257f63f08c29c4e739efb03b06c7d">
+        <dex dex="/home/izznfkhrlislm/AndroidStudioProjects/KalkulatorSederhana/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-adapters-1.2.1_a38773a5d54cd5886b43294341933d45dd58af0f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izznfkhrlislm/AndroidStudioProjects/KalkulatorSederhana/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="cfcefb4e9ac92452e3c2a9e5fdac94a52d393f89">
+        <dex dex="/home/izznfkhrlislm/AndroidStudioProjects/KalkulatorSederhana/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_a8213132e9974ced673a3611f6a5f8ed0f44eb6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izznfkhrlislm/AndroidStudioProjects/KalkulatorSederhana/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3e04ac8ca644ea7baddf6fdcf72e15c79e9df94a">
+        <dex dex="/home/izznfkhrlislm/AndroidStudioProjects/KalkulatorSederhana/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-25.1.1_328a41c4f9bb69f69cb8022c440858947757b61f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izznfkhrlislm/AndroidStudioProjects/KalkulatorSederhana/app/build/intermediates/exploded-aar/com.android.support/support-v4/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/izznfkhrlislm/AndroidStudioProjects/KalkulatorSederhana/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-25.1.1_5b21e52aef28b1be4f8e001c93ae7d13d0f89048/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izznfkhrlislm/AndroidStudioProjects/KalkulatorSederhana/app/build/intermediates/exploded-aar/com.android.databinding/library/1.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="957dc30b1495f8689271e00d56ab09cc9192df02">
+        <dex dex="/home/izznfkhrlislm/AndroidStudioProjects/KalkulatorSederhana/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.databinding-library-1.2.1_70e7c89c0b59bf588d5b58e32931522174e65e6b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izznfkhrlislm/AndroidStudioProjects/KalkulatorSederhana/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="0fb891e8f0cfba0513043a7bb357513d229ca2cd">
+        <dex dex="/home/izznfkhrlislm/AndroidStudioProjects/KalkulatorSederhana/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-25.1.1_726fdb9c61e05af0e286719d5e7dc588aff43c2a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izznfkhrlislm/AndroidStudioProjects/KalkulatorSederhana/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="83f3455a732da40072ef4bf39378c02a0a7602a5">
+        <dex dex="/home/izznfkhrlislm/AndroidStudioProjects/KalkulatorSederhana/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b58a58d07e9c193ff99b2c9af405e0ac77f40d52/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/home/izznfkhrlislm/AndroidStudioProjects/KalkulatorSederhana/app/build/intermediates/exploded-aar/com.android.support/support-compat/25.1.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="02741d05d4b697fba5e279e9881aaa1da0ca7c7f">
+        <dex dex="/home/izznfkhrlislm/AndroidStudioProjects/KalkulatorSederhana/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-25.1.1_6fc8088c8dd1e42ee66a915965a672e569717676/classes.dex" />
+    </item>
+
+</items>
